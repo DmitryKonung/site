@@ -1,5 +1,6 @@
 body {
-    background: red;
+
+    background: green;
     width: 170px;
     margin: 0 auto;
 }
@@ -10,4 +11,5 @@ h1{
 
 body div {
     font-size: 20px;
+
 }
